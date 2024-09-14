@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "tlpi_hdr.h": "c",
+    "cstdlib": "c"
+  }
+}
