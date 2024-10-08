@@ -2,6 +2,10 @@
   "files.associations": {
     "stdio.h": "c",
     "tlpi_hdr.h": "c",
-    "cstdlib": "c"
+    "cstdlib": "c",
+    "stat.h": "c",
+    "cerrno": "c",
+    "errno.h": "c",
+    "stdlib.h": "c"
   }
 }
